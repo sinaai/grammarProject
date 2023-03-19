@@ -1,6 +1,6 @@
 # grammerProject
 
-The few-shot grammer project
+The few-shot grammar project
 
 For Adventures in NLP - Final Project
 
