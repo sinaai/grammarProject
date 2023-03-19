@@ -1,4 +1,4 @@
-# grammerProject
+# grammarProject
 
 The few-shot grammar project
 
